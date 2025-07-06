@@ -1,0 +1,22 @@
+{
+  "name": "e2ehasmcro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masnova/e2ehasmcro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masnova/e2ehasmcro/issues"
+  },
+  "homepage": "https://github.com/masnova/e2ehasmcro#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.53.2",
+    "@types/node": "^24.0.10"
+  }
+}
